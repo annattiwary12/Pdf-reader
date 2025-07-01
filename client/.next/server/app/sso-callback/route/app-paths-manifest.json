@@ -1,0 +1,3 @@
+{
+  "/sso-callback/route": "app/sso-callback/route.js"
+}
