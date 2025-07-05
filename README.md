@@ -1,6 +1,6 @@
 # 🧠 Chat with PDF
 
-Chat with any PDF using AI! This tool lets you upload a PDF and ask questions about its content — perfect for studying, summarizing, or extracting key insights.
+Chat with any PDF using AI! This tool lets you upload a PDF and ask questions about its content — perfect for studying, summarizing, or extracting key insightss
 
 ## 🔍 Features
 
