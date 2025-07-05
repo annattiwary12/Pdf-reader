@@ -5,7 +5,7 @@ Chat with any PDF using AI! This tool lets you upload a PDF and ask questions ab
 ## 🔍 Features
 
 - 📄 Upload any PDF file
-- 💬 Ask questions based on the document
+- 💬 Ask questions based on the documents
 - 🧠 Get answers using AI + embeddings
 - 🧹 Clean and simple UI
 - 💾 Memory of conversation (optional)
